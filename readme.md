@@ -1,5 +1,5 @@
-#   Assignment - Pymaceuticals Inc and the Power of Plots
-# Pymaceuticals Instructions
+#   <ins> Assignment - Pymaceuticals Inc and the Power of Plots </ins>
+# <ins> Pymaceuticals Instructions </ins>
 
 As their Chief Data Analyst, you've been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. Your objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 To do this you are tasked with:
@@ -12,7 +12,7 @@ Include 3 observations about the results of the study. Use the visualizations yo
 
 We must:
 
---use Pandas Library, the Jupyter Notebook and Matplotlib library <br> </br>
---include a written description of three observable trends based on the data
---include error bars on my scatter plots.This will allow the company to account for variability between mice. You may want to look into pandas.DataFrame.sem for ideas on how to calculate this.
+<b> use </b> Pandas Library, the Jupyter Notebook and Matplotlib library <br> </br>
+<b> include </b> a written description of three observable trends based on the data <br> </br>
+<b> include </b> error bars on my scatter plots.This will allow the company to account for variability between mice. You may want to look into pandas.DataFrame.sem for ideas on how to calculate this <br> </br>
 
